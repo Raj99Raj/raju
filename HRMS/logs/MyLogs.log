@@ -1,0 +1,21 @@
+[INFO ] 2023-01-17 15:12:37.100 [main] loginpage_pagefactory - Browser setup
+[INFO ] 2023-01-17 15:13:11.891 [main] loginpage_pagefactory - Entering URL
+[INFO ] 2023-01-17 15:13:21.060 [main] loginpage_pagefactory - Entering Login details
+[INFO ] 2023-01-17 15:13:25.041 [main] loginpage_pagefactory - Clicking login button
+[TRACE] 2023-01-17 15:13:26.738 [main] loginpage_pagefactory - This is trace message
+[INFO ] 2023-01-17 15:15:56.988 [main] loginpage_pagefactory - Browser setup
+[INFO ] 2023-01-17 15:16:17.121 [main] loginpage_pagefactory - Entering URL
+[INFO ] 2023-01-17 15:16:26.196 [main] loginpage_pagefactory - Entering Login details
+[INFO ] 2023-01-17 15:16:44.819 [main] loginpage_pagefactory - Clicking login button
+[TRACE] 2023-01-17 15:16:48.322 [main] loginpage_pagefactory - This is trace message
+[INFO ] 2023-01-17 15:21:58.944 [main] loginpage_pagefactory - Browser setup
+[INFO ] 2023-01-17 15:22:08.210 [main] loginpage_pagefactory - Entering URL
+[INFO ] 2023-01-17 15:22:15.042 [main] loginpage_pagefactory - Entering Login details
+[INFO ] 2023-01-17 15:22:16.602 [main] loginpage_pagefactory - Clicking login button
+[TRACE] 2023-01-17 15:22:17.598 [main] loginpage_pagefactory - This is trace message
+[INFO ] 2023-01-17 15:34:19.698 [main] loginpage_pagefactory - Browser setup
+[INFO ] 2023-01-17 15:34:25.099 [main] loginpage_pagefactory - Entering URL
+[INFO ] 2023-01-17 15:34:35.657 [main] loginpage_pagefactory - Entering Login details
+[INFO ] 2023-01-17 15:34:37.454 [main] loginpage_pagefactory - Clicking login button
+[TRACE] 2023-01-17 15:34:38.416 [main] loginpage_pagefactory - This is trace message
+[INFO ] 2023-01-18 16:31:57.858 [main] loginpage_pagefactory - Browser setup
